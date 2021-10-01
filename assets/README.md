@@ -7,4 +7,4 @@
 O objetivo do projeto é construir um _dataset_ contendo os valores históricos de diversas moedas virtuais de jogos, assim como uma _timeline_ de eventos para cada jogo, com o propósito de oferecer os recursos para pesquisas relacionadas ao seu comportamento e comparação com o de moedas tradicionais e criptomoedas.
 
 ## Slides da Apresentação
-[Apresentação](./assets/slides/slides.pdf)
+[Apresentação](./slides/slides.pdf)
