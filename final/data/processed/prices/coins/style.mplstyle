@@ -1,0 +1,14 @@
+font.family : Roboto
+font.weight : light
+font.size : 12
+text.color :      b5b5b5
+xtick.color :     ffffff
+ytick.color :     ffffff
+axes.labelcolor : ffffff
+axes.edgecolor :  b5b5b5
+axes.labelsize : 12
+axes.labelweight : light
+axes.titlesize : 14
+axes.titleweight : bold
+figure.facecolor : 06000C
+axes.facecolor : 06000C

@@ -1,0 +1,1 @@
+{"name": "Pool 8 Ball", "description": "", "steam": {"steam_game": false, "appid": null}, "developers": [], "publishers": [], "platforms": [], "genres": [], "keywords": [], "release_date": "", "currencies": [{"id": "8-Ball-Pool", "name": "8 Ball Pool Coins", "price": {"fixed_price": null, "unit": 2000000000, "price_table": "../prices/coins/8-Ball-Pool.csv"}}]}

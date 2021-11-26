@@ -1,0 +1,597 @@
+[
+    {
+        "seo_name": "4Story",
+        "game_name": "4Story",
+        "game_url": "4story"
+    },
+    {
+        "seo_name": "8-Ball-Pool",
+        "game_name": "8 Ball Pool",
+        "game_url": "8-ball-pool"
+    },
+    {
+        "seo_name": "9DS",
+        "game_name": "9 Dragons",
+        "game_url": "9ds"
+    },
+    {
+        "seo_name": "Aion-Classic",
+        "game_name": "Aion Classic",
+        "game_url": "aion-classic"
+    },
+    {
+        "seo_name": "Aion",
+        "game_name": "Aion Online",
+        "game_url": "aion"
+    },
+    {
+        "seo_name": "Albion-Online",
+        "game_name": "Albion Online",
+        "game_url": "albion-online"
+    },
+    {
+        "seo_name": "Animal-Crossing-NH",
+        "game_name": "Animal Crossing: New Horizons",
+        "game_url": "animal-crossing-nh"
+    },
+    {
+        "seo_name": "Animal-Jam",
+        "game_name": "Animal Jam",
+        "game_url": "animal-jam"
+    },
+    {
+        "seo_name": "Arcane-Legends",
+        "game_name": "Arcane Legends",
+        "game_url": "arcane-legends"
+    },
+    {
+        "seo_name": "ArcheAge",
+        "game_name": "ArcheAge Online",
+        "game_url": "archeage"
+    },
+    {
+        "seo_name": "Archeage-Unchained",
+        "game_name": "ArcheAge Unchained",
+        "game_url": "archeage-unchained"
+    },
+    {
+        "seo_name": "Astellia-Online",
+        "game_name": "Astellia Online",
+        "game_url": "astellia-online"
+    },
+    {
+        "seo_name": "Aura-Kingdom",
+        "game_name": "Aura Kingdom",
+        "game_url": "aura-kingdom"
+    },
+    {
+        "seo_name": "Black-Desert",
+        "game_name": "Black Desert",
+        "game_url": "black-desert"
+    },
+    {
+        "seo_name": "Blade-Soul",
+        "game_name": "Blade and Soul",
+        "game_url": "blade-soul"
+    },
+    {
+        "seo_name": "Bless-Unleashed",
+        "game_name": "Bless Unleashed",
+        "game_url": "bless-unleashed"
+    },
+    {
+        "seo_name": "Conquerors-Blade",
+        "game_name": "Conqueror's Blade",
+        "game_url": "conquerors-blade"
+    },
+    {
+        "seo_name": "Crowfall",
+        "game_name": "Crowfall",
+        "game_url": "crowfall"
+    },
+    {
+        "seo_name": "DCUO",
+        "game_name": "DC Universe Online",
+        "game_url": "dcuo"
+    },
+    {
+        "seo_name": "Dead-Frontier-2",
+        "game_name": "Dead Frontier 2",
+        "game_url": "dead-frontier-2"
+    },
+    {
+        "seo_name": "D2",
+        "game_name": "Diablo 2",
+        "game_url": "d2"
+    },
+    {
+        "seo_name": "Diablo-2-Resurrected",
+        "game_name": "Diablo 2 Resurrected",
+        "game_url": "diablo-2-resurrected"
+    },
+    {
+        "seo_name": "Digimon-Masters",
+        "game_name": "Digimon Masters Online",
+        "game_url": "digimon-masters"
+    },
+    {
+        "seo_name": "Dofus",
+        "game_name": "Dofus",
+        "game_url": "dofus"
+    },
+    {
+        "seo_name": "Dofus-Touch",
+        "game_name": "Dofus Touch",
+        "game_url": "dofus-touch"
+    },
+    {
+        "seo_name": "Dragon-Nest",
+        "game_name": "Dragon Nest",
+        "game_url": "dragon-nest"
+    },
+    {
+        "seo_name": "Dual-Universe",
+        "game_name": "Dual Universe",
+        "game_url": "dual-universe"
+    },
+    {
+        "seo_name": "DFO",
+        "game_name": "Dungeon Fighter Online",
+        "game_url": "dfo"
+    },
+    {
+        "seo_name": "DDO",
+        "game_name": "Dungeons and Dragons",
+        "game_url": "ddo"
+    },
+    {
+        "seo_name": "Elder-Scrolls-Online",
+        "game_name": "Elder Scrolls Online",
+        "game_url": "elder-scrolls-online"
+    },
+    {
+        "seo_name": "Elite-Dangerous",
+        "game_name": "Elite:Dangerous",
+        "game_url": "elite-dangerous"
+    },
+    {
+        "seo_name": "Elsworld-Online",
+        "game_name": "Elsword Online",
+        "game_url": "elsworld-online"
+    },
+    {
+        "seo_name": "Elyon",
+        "game_name": "Elyon: Ascent Infinite Realm",
+        "game_url": "elyon"
+    },
+    {
+        "seo_name": "Escape-From-Tarkov",
+        "game_name": "Escape From Tarkov",
+        "game_url": "escape-from-tarkov"
+    },
+    {
+        "seo_name": "EVE-Echoes",
+        "game_name": "EVE Echoes",
+        "game_url": "eve-echoes"
+    },
+    {
+        "seo_name": "EVE",
+        "game_name": "EVE Online",
+        "game_url": "eve"
+    },
+    {
+        "seo_name": "EverQuest",
+        "game_name": "EverQuest",
+        "game_url": "everquest"
+    },
+    {
+        "seo_name": "EQ2",
+        "game_name": "EverQuest II",
+        "game_url": "eq2"
+    },
+    {
+        "seo_name": "Fallout-76",
+        "game_name": "Fallout 76",
+        "game_url": "fallout-76"
+    },
+    {
+        "seo_name": "FIFA-Mobile",
+        "game_name": "FIFA Mobile",
+        "game_url": "fifa-mobile"
+    },
+    {
+        "seo_name": "FIFA-20",
+        "game_name": "FIFA Ultimate Team 20",
+        "game_url": "fifa-20"
+    },
+    {
+        "seo_name": "FIFA-21",
+        "game_name": "FIFA Ultimate Team 21",
+        "game_url": "fifa-21"
+    },
+    {
+        "seo_name": "FIFA-22",
+        "game_name": "FIFA Ultimate Team 22",
+        "game_url": "fifa-22"
+    },
+    {
+        "seo_name": "FFXI",
+        "game_name": "Final Fantasy XI",
+        "game_url": "ffxi"
+    },
+    {
+        "seo_name": "FFXIV",
+        "game_name": "Final Fantasy XIV",
+        "game_url": "ffxiv"
+    },
+    {
+        "seo_name": "Forza-Horizon-4",
+        "game_name": "Forza Horizon 4",
+        "game_url": "forza-horizon-4"
+    },
+    {
+        "seo_name": "Gaia",
+        "game_name": "Gaia Online",
+        "game_url": "gaia"
+    },
+    {
+        "seo_name": "Gloria-Victis",
+        "game_name": "Gloria Victis",
+        "game_url": "gloria-victis"
+    },
+    {
+        "seo_name": "GTA",
+        "game_name": "GTA 5 Online",
+        "game_url": "gta"
+    },
+    {
+        "seo_name": "GW",
+        "game_name": "Guild Wars",
+        "game_url": "gw"
+    },
+    {
+        "seo_name": "Guild-Wars-2",
+        "game_name": "Guild Wars 2",
+        "game_url": "guild-wars-2"
+    },
+    {
+        "seo_name": "Habbo",
+        "game_name": "Habbo",
+        "game_url": "habbo"
+    },
+    {
+        "seo_name": "IMVU",
+        "game_name": "IMVU",
+        "game_url": "imvu"
+    },
+    {
+        "seo_name": "Kritika-REBOOT",
+        "game_name": "Kritika:REBOOT",
+        "game_url": "kritika-reboot"
+    },
+    {
+        "seo_name": "Last-Oasis",
+        "game_name": "Last Oasis",
+        "game_url": "last-oasis"
+    },
+    {
+        "seo_name": "Legends-of-Aria",
+        "game_name": "Legends of Aria",
+        "game_url": "legends-of-aria"
+    },
+    {
+        "seo_name": "L2",
+        "game_name": "Lineage 2",
+        "game_url": "l2"
+    },
+    {
+        "seo_name": "LOTRO",
+        "game_name": "Lord of The Rings Online",
+        "game_url": "lotro"
+    },
+    {
+        "seo_name": "Lords-Mobile",
+        "game_name": "Lords Mobile",
+        "game_url": "lords-mobile"
+    },
+    {
+        "seo_name": "Lost-Ark",
+        "game_name": "Lost Ark",
+        "game_url": "lost-ark"
+    },
+    {
+        "seo_name": "Mabinogi",
+        "game_name": "Mabinogi",
+        "game_url": "mabinogi"
+    },
+    {
+        "seo_name": "Madden-21",
+        "game_name": "Madden NFL 21",
+        "game_url": "madden-21"
+    },
+    {
+        "seo_name": "Madden-22",
+        "game_name": "Madden NFL 22",
+        "game_url": "madden-22"
+    },
+    {
+        "seo_name": "Madden-NFL-Mobile",
+        "game_name": "Madden NFL Mobile",
+        "game_url": "madden-nfl-mobile"
+    },
+    {
+        "seo_name": "MapleStory-2",
+        "game_name": "MapleStory 2",
+        "game_url": "maplestory-2"
+    },
+    {
+        "seo_name": "Maple-Story",
+        "game_name": "MapleStory Global",
+        "game_url": "maple-story"
+    },
+    {
+        "seo_name": "MapleStory-M",
+        "game_name": "MapleStory M",
+        "game_url": "maplestory-m"
+    },
+    {
+        "seo_name": "M2",
+        "game_name": "Metin 2",
+        "game_url": "m2"
+    },
+    {
+        "seo_name": "Minecraft",
+        "game_name": "Minecraft",
+        "game_url": "minecraft"
+    },
+    {
+        "seo_name": "MIR4",
+        "game_name": "MIR4",
+        "game_url": "mir4"
+    },
+    {
+        "seo_name": "MLB-The-Show-21",
+        "game_name": "MLB The Show 21",
+        "game_url": "mlb-the-show-21"
+    },
+    {
+        "seo_name": "NBA-2K20",
+        "game_name": "NBA 2K20",
+        "game_url": "nba-2k20"
+    },
+    {
+        "seo_name": "NBA-2K21",
+        "game_name": "NBA 2K21",
+        "game_url": "nba-2k21"
+    },
+    {
+        "seo_name": "NBA-2K22",
+        "game_name": "NBA 2K22",
+        "game_url": "nba-2k22"
+    },
+    {
+        "seo_name": "NBA-Live-Mobile",
+        "game_name": "NBA Live Mobile",
+        "game_url": "nba-live-mobile"
+    },
+    {
+        "seo_name": "Neopets",
+        "game_name": "Neopets",
+        "game_url": "neopets"
+    },
+    {
+        "seo_name": "Never-Winter",
+        "game_name": "NeverWinter",
+        "game_url": "never-winter"
+    },
+    {
+        "seo_name": "New-World",
+        "game_name": "New World",
+        "game_url": "new-world"
+    },
+    {
+        "seo_name": "NHL-21",
+        "game_name": "NHL 21",
+        "game_url": "nhl-21"
+    },
+    {
+        "seo_name": "Ourworld",
+        "game_name": "Ourworld",
+        "game_url": "ourworld"
+    },
+    {
+        "seo_name": "Path-of-Exile",
+        "game_name": "Path of Exile",
+        "game_url": "path-of-exile"
+    },
+    {
+        "seo_name": "PSO2",
+        "game_name": "Phantasy Star Online 2",
+        "game_url": "pso2"
+    },
+    {
+        "seo_name": "PSO2NGS",
+        "game_name": "Phantasy Star Online 2: New Genesis",
+        "game_url": "pso2ngs"
+    },
+    {
+        "seo_name": "PokeMMO",
+        "game_name": "PokeMMO",
+        "game_url": "pokemmo"
+    },
+    {
+        "seo_name": "RO",
+        "game_name": "Ragnarok Online",
+        "game_url": "ro"
+    },
+    {
+        "seo_name": "RDR2",
+        "game_name": "Red Dead Redemption 2",
+        "game_url": "rdr2"
+    },
+    {
+        "seo_name": "Revelation-Online",
+        "game_name": "Revelation Online",
+        "game_url": "revelation-online"
+    },
+    {
+        "seo_name": "Rift",
+        "game_name": "Rift",
+        "game_url": "rift"
+    },
+    {
+        "seo_name": "ROBLOX",
+        "game_name": "ROBLOX",
+        "game_url": "roblox"
+    },
+    {
+        "seo_name": "Rocket-League",
+        "game_name": "Rocket League",
+        "game_url": "rocket-league"
+    },
+    {
+        "seo_name": "RuneScape",
+        "game_name": "RuneScape",
+        "game_url": "runescape"
+    },
+    {
+        "seo_name": "OSRS",
+        "game_name": "RuneScape - Old School",
+        "game_url": "/osrs-gold/osrs-market-tracker/"
+    },
+    {
+        "seo_name": "SL",
+        "game_name": "Second Life",
+        "game_url": "sl"
+    },
+    {
+        "seo_name": "Smite",
+        "game_name": "Smite",
+        "game_url": "smite"
+    },
+    {
+        "seo_name": "Stalker-Online",
+        "game_name": "Stalker Online",
+        "game_url": "stalker-online"
+    },
+    {
+        "seo_name": "Star-Citizen",
+        "game_name": "Star Citizen",
+        "game_url": "star-citizen"
+    },
+    {
+        "seo_name": "STO",
+        "game_name": "Star Trek Online",
+        "game_url": "sto"
+    },
+    {
+        "seo_name": "Starbase",
+        "game_name": "Starbase",
+        "game_url": "starbase"
+    },
+    {
+        "seo_name": "Swords-of-Legends",
+        "game_name": "Swords of Legends Online",
+        "game_url": "swords-of-legends"
+    },
+    {
+        "seo_name": "SWTOR",
+        "game_name": "SWTOR",
+        "game_url": "swtor"
+    },
+    {
+        "seo_name": "Temtem",
+        "game_name": "Temtem",
+        "game_url": "temtem"
+    },
+    {
+        "seo_name": "Tera",
+        "game_name": "Tera",
+        "game_url": "tera"
+    },
+    {
+        "seo_name": "Tibia",
+        "game_name": "Tibia",
+        "game_url": "tibia"
+    },
+    {
+        "seo_name": "Toram-Online",
+        "game_name": "Toram Online",
+        "game_url": "toram-online"
+    },
+    {
+        "seo_name": "Tree-of-Savior",
+        "game_name": "Tree of Savior",
+        "game_url": "tree-of-savior"
+    },
+    {
+        "seo_name": "Trove",
+        "game_name": "Trove",
+        "game_url": "trove"
+    },
+    {
+        "seo_name": "V4",
+        "game_name": "V4",
+        "game_url": "v4"
+    },
+    {
+        "seo_name": "Vindictus",
+        "game_name": "Vindictus",
+        "game_url": "vindictus"
+    },
+    {
+        "seo_name": "Wakfu",
+        "game_name": "Wakfu",
+        "game_url": "wakfu"
+    },
+    {
+        "seo_name": "Warframe",
+        "game_name": "Warframe",
+        "game_url": "warframe"
+    },
+    {
+        "seo_name": "Wild-Terra-2",
+        "game_name": "Wild Terra 2: New Lands",
+        "game_url": "wild-terra-2"
+    },
+    {
+        "seo_name": "Wildstar",
+        "game_name": "Wildstar",
+        "game_url": "wildstar"
+    },
+    {
+        "seo_name": "Wizard101",
+        "game_name": "Wizard101",
+        "game_url": "wizard101"
+    },
+    {
+        "seo_name": "Wolcen",
+        "game_name": "Wolcen: Lords of Mayhem",
+        "game_url": "wolcen"
+    },
+    {
+        "seo_name": "WoW-Classic",
+        "game_name": "World of Warcraft Classic",
+        "game_url": "wow-classic"
+    },
+    {
+        "seo_name": "Season-of-Mastery",
+        "game_name": "World of Warcraft Classic Season of Mastery",
+        "game_url": "season-of-mastery"
+    },
+    {
+        "seo_name": "WoW-EU",
+        "game_name": "World of Warcraft EU",
+        "game_url": "wow-eu"
+    },
+    {
+        "seo_name": "WoW",
+        "game_name": "World of Warcraft US",
+        "game_url": "wow"
+    },
+    {
+        "seo_name": "WoW-Classic-TBC",
+        "game_name": "World of Warcraft: Burning Crusade Classic",
+        "game_url": "wow-classic-tbc"
+    }
+]

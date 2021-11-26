@@ -1,0 +1,2259 @@
+1637901158268	geckodriver	INFO	Listening on 127.0.0.1:35697
+1637901159277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileBWd8YH"
+*** You are running in headless mode.
+1637901159540	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBWd8YH/search.json.mozlz4", (void 0)))
+1637901160392	Marionette	INFO	Listening on port 37921
+1637901160493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637901238913	geckodriver	INFO	Listening on 127.0.0.1:33003
+1637901239920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileJoFzw7"
+*** You are running in headless mode.
+1637901240152	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJoFzw7/search.json.mozlz4", (void 0)))
+1637901241034	Marionette	INFO	Listening on port 42343
+1637901241134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637901245073	Marionette	INFO	Stopped listening on port 42343
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637901731796	geckodriver	INFO	Listening on 127.0.0.1:51985
+1637901732805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile2buu1j"
+*** You are running in headless mode.
+1637901733034	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2buu1j/search.json.mozlz4", (void 0)))
+1637901733908	Marionette	INFO	Listening on port 39417
+1637901733923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637901737676	Marionette	INFO	Stopped listening on port 39417
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637901842026	geckodriver	INFO	Listening on 127.0.0.1:35835
+1637901843034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile5FdVsr"
+*** You are running in headless mode.
+1637901843257	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5FdVsr/search.json.mozlz4", (void 0)))
+1637901844152	Marionette	INFO	Listening on port 46345
+1637901844252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637901847656	Marionette	INFO	Stopped listening on port 46345
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637902347681	geckodriver	INFO	Listening on 127.0.0.1:44293
+1637902348688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileCSR3l2"
+*** You are running in headless mode.
+1637902348911	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCSR3l2/search.json.mozlz4", (void 0)))
+1637902349782	Marionette	INFO	Listening on port 37693
+1637902349805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637902353703	Marionette	INFO	Stopped listening on port 37693
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637902916525	geckodriver	INFO	Listening on 127.0.0.1:41385
+1637902917534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileVn3T1t"
+*** You are running in headless mode.
+1637902917767	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVn3T1t/search.json.mozlz4", (void 0)))
+1637902918644	Marionette	INFO	Listening on port 44757
+1637902918750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637902922808	Marionette	INFO	Stopped listening on port 44757
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637903209800	geckodriver	INFO	Listening on 127.0.0.1:38321
+1637903210806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilenoqLLG"
+*** You are running in headless mode.
+1637903211035	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenoqLLG/search.json.mozlz4", (void 0)))
+1637903211882	Marionette	INFO	Listening on port 34309
+1637903211920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637903216044	Marionette	INFO	Stopped listening on port 34309
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637903218198	geckodriver	INFO	Listening on 127.0.0.1:39371
+1637903219204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile7WyFot"
+*** You are running in headless mode.
+1637903219429	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7WyFot/search.json.mozlz4", (void 0)))
+1637903220296	Marionette	INFO	Listening on port 40763
+1637903220321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637903223950	Marionette	INFO	Stopped listening on port 40763
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637904162434	geckodriver	INFO	Listening on 127.0.0.1:34741
+1637904163444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileFXMUTz"
+*** You are running in headless mode.
+1637904163674	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFXMUTz/search.json.mozlz4", (void 0)))
+1637904164564	Marionette	INFO	Listening on port 36899
+1637904164659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637904168634	Marionette	INFO	Stopped listening on port 36899
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637904175491	geckodriver	INFO	Listening on 127.0.0.1:47743
+1637904176500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilebKcHg2"
+*** You are running in headless mode.
+1637904176727	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebKcHg2/search.json.mozlz4", (void 0)))
+1637904177608	Marionette	INFO	Listening on port 43835
+1637904177715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637904183643	Marionette	INFO	Stopped listening on port 43835
+1637904191472	geckodriver	INFO	Listening on 127.0.0.1:36423
+1637904192482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNoN9hi"
+*** You are running in headless mode.
+1637904192708	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNoN9hi/search.json.mozlz4", (void 0)))
+1637904193581	Marionette	INFO	Listening on port 46081
+1637904193602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637904196652	Marionette	INFO	Stopped listening on port 46081
+1637904202626	geckodriver	INFO	Listening on 127.0.0.1:40761
+1637904203636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile2cJ8CX"
+*** You are running in headless mode.
+1637904203863	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2cJ8CX/search.json.mozlz4", (void 0)))
+1637904204684	Marionette	INFO	Listening on port 46731
+1637904204762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637904208006	Marionette	INFO	Stopped listening on port 46731
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637904214916	geckodriver	INFO	Listening on 127.0.0.1:52835
+1637904215925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile3tN2jf"
+*** You are running in headless mode.
+1637904216177	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3tN2jf/search.json.mozlz4", (void 0)))
+1637904217059	Marionette	INFO	Listening on port 46109
+1637904217139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637904223360	Marionette	INFO	Stopped listening on port 46109
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637904226716	geckodriver	INFO	Listening on 127.0.0.1:34931
+1637904227723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileArTki3"
+*** You are running in headless mode.
+1637904227950	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileArTki3/search.json.mozlz4", (void 0)))
+1637904228837	Marionette	INFO	Listening on port 33395
+1637904228937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637904234443	Marionette	INFO	Stopped listening on port 33395
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637904241543	geckodriver	INFO	Listening on 127.0.0.1:56081
+1637904242551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofiley0XWr3"
+*** You are running in headless mode.
+1637904242773	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley0XWr3/search.json.mozlz4", (void 0)))
+1637904243642	Marionette	INFO	Listening on port 44209
+1637904243665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637904249633	Marionette	INFO	Stopped listening on port 44209
+1637904256664	geckodriver	INFO	Listening on 127.0.0.1:47819
+1637904257673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileFvbKx6"
+*** You are running in headless mode.
+1637904257937	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFvbKx6/search.json.mozlz4", (void 0)))
+1637904258882	Marionette	INFO	Listening on port 41275
+1637904258989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637904264600	Marionette	INFO	Stopped listening on port 41275
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637904273077	geckodriver	INFO	Listening on 127.0.0.1:40083
+1637904274087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileBMTtbC"
+*** You are running in headless mode.
+1637904274357	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBMTtbC/search.json.mozlz4", (void 0)))
+1637904275226	Marionette	INFO	Listening on port 33645
+1637904275302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637904280251	Marionette	INFO	Stopped listening on port 33645
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637904282870	geckodriver	INFO	Listening on 127.0.0.1:35309
+1637904283879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileJw7BKX"
+*** You are running in headless mode.
+1637904284108	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJw7BKX/search.json.mozlz4", (void 0)))
+1637904284986	Marionette	INFO	Listening on port 45377
+1637904285097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637904288322	Marionette	INFO	Stopped listening on port 45377
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637905537574	geckodriver	INFO	Listening on 127.0.0.1:60671
+1637905538583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileKLKwhZ"
+*** You are running in headless mode.
+1637905538925	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKLKwhZ/search.json.mozlz4", (void 0)))
+1637905539887	Marionette	INFO	Listening on port 44393
+1637905539998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637905543892	Marionette	INFO	Stopped listening on port 44393
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637905546586	geckodriver	INFO	Listening on 127.0.0.1:44467
+1637905547593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileSx7YuS"
+*** You are running in headless mode.
+1637905547872	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSx7YuS/search.json.mozlz4", (void 0)))
+1637905548782	Marionette	INFO	Listening on port 43021
+1637905548809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637905551567	Marionette	INFO	Stopped listening on port 43021
+1637905566603	geckodriver	INFO	Listening on 127.0.0.1:36687
+1637905567614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileqgH7WM"
+*** You are running in headless mode.
+1637905567909	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqgH7WM/search.json.mozlz4", (void 0)))
+1637905568835	Marionette	INFO	Listening on port 36767
+1637905568931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637905573426	Marionette	INFO	Stopped listening on port 36767
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637905585941	geckodriver	INFO	Listening on 127.0.0.1:32861
+1637905586952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileTkvcRp"
+*** You are running in headless mode.
+1637905587220	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTkvcRp/search.json.mozlz4", (void 0)))
+1637905588219	Marionette	INFO	Listening on port 45639
+1637905588267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637905592192	Marionette	INFO	Stopped listening on port 45639
+1637905603416	geckodriver	INFO	Listening on 127.0.0.1:60017
+1637905604417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileYNYlE1"
+*** You are running in headless mode.
+1637905604673	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYNYlE1/search.json.mozlz4", (void 0)))
+1637905605627	Marionette	INFO	Listening on port 44705
+1637905605734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637905608633	Marionette	INFO	Stopped listening on port 44705
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637905620705	geckodriver	INFO	Listening on 127.0.0.1:34245
+1637905621713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilehKpLO6"
+*** You are running in headless mode.
+1637905622049	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehKpLO6/search.json.mozlz4", (void 0)))
+1637905622975	Marionette	INFO	Listening on port 42693
+1637905623034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637905628406	Marionette	INFO	Stopped listening on port 42693
+1637905634737	geckodriver	INFO	Listening on 127.0.0.1:37187
+1637905635746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileKww0wk"
+*** You are running in headless mode.
+1637905636011	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKww0wk/search.json.mozlz4", (void 0)))
+1637905636949	Marionette	INFO	Listening on port 45067
+1637905636967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637905638947	Marionette	INFO	Stopped listening on port 45067
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637906188055	geckodriver	INFO	Listening on 127.0.0.1:38767
+1637906189064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile86bXkB"
+*** You are running in headless mode.
+1637906189350	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile86bXkB/search.json.mozlz4", (void 0)))
+1637906190361	Marionette	INFO	Listening on port 36413
+1637906190393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906196803	Marionette	INFO	Stopped listening on port 36413
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637906199569	geckodriver	INFO	Listening on 127.0.0.1:46221
+1637906200578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileaWQYnM"
+*** You are running in headless mode.
+1637906200862	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaWQYnM/search.json.mozlz4", (void 0)))
+1637906201882	Marionette	INFO	Listening on port 39225
+1637906201995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906207362	Marionette	INFO	Stopped listening on port 39225
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637906217700	geckodriver	INFO	Listening on 127.0.0.1:56585
+1637906218708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileW7gCuI"
+*** You are running in headless mode.
+1637906218981	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW7gCuI/search.json.mozlz4", (void 0)))
+1637906219876	Marionette	INFO	Listening on port 33395
+1637906219924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906223335	Marionette	INFO	Stopped listening on port 33395
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637906233513	geckodriver	INFO	Listening on 127.0.0.1:54373
+1637906234523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile0gUalK"
+*** You are running in headless mode.
+1637906234836	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0gUalK/search.json.mozlz4", (void 0)))
+1637906235791	Marionette	INFO	Listening on port 44335
+1637906235840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906241712	Marionette	INFO	Stopped listening on port 44335
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637906249598	geckodriver	INFO	Listening on 127.0.0.1:42483
+1637906250608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilelil0gK"
+*** You are running in headless mode.
+1637906250893	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelil0gK/search.json.mozlz4", (void 0)))
+1637906251872	Marionette	INFO	Listening on port 39429
+1637906251927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906253624	Marionette	INFO	Stopped listening on port 39429
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637906264122	geckodriver	INFO	Listening on 127.0.0.1:46991
+1637906265125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileVHK6jX"
+*** You are running in headless mode.
+1637906265382	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVHK6jX/search.json.mozlz4", (void 0)))
+1637906266394	Marionette	INFO	Listening on port 44097
+1637906266445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906270820	Marionette	INFO	Stopped listening on port 44097
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637906276122	geckodriver	INFO	Listening on 127.0.0.1:56665
+1637906277131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile7UvbpX"
+*** You are running in headless mode.
+1637906277415	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7UvbpX/search.json.mozlz4", (void 0)))
+1637906278412	Marionette	INFO	Listening on port 41567
+1637906278448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906279675	Marionette	INFO	Stopped listening on port 41567
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637906292487	geckodriver	INFO	Listening on 127.0.0.1:44655
+1637906293491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileFaxbgG"
+*** You are running in headless mode.
+1637906293761	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFaxbgG/search.json.mozlz4", (void 0)))
+1637906294692	Marionette	INFO	Listening on port 42121
+1637906294708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906300092	Marionette	INFO	Stopped listening on port 42121
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637906309848	geckodriver	INFO	Listening on 127.0.0.1:56175
+1637906310850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilej7ZJrq"
+*** You are running in headless mode.
+1637906311100	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej7ZJrq/search.json.mozlz4", (void 0)))
+1637906312081	Marionette	INFO	Listening on port 44197
+1637906312171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906317635	Marionette	INFO	Stopped listening on port 44197
+1637906336890	geckodriver	INFO	Listening on 127.0.0.1:38279
+1637906337896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile32Q7YJ"
+*** You are running in headless mode.
+1637906338174	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile32Q7YJ/search.json.mozlz4", (void 0)))
+1637906339099	Marionette	INFO	Listening on port 42697
+1637906339211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906344841	Marionette	INFO	Stopped listening on port 42697
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637906358333	geckodriver	INFO	Listening on 127.0.0.1:41911
+1637906359345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileOFIGFe"
+*** You are running in headless mode.
+1637906359619	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOFIGFe/search.json.mozlz4", (void 0)))
+1637906360623	Marionette	INFO	Listening on port 43991
+1637906360666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637906981230	geckodriver	INFO	Listening on 127.0.0.1:56269
+1637906982238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNnmvZg"
+*** You are running in headless mode.
+1637906982565	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNnmvZg/search.json.mozlz4", (void 0)))
+1637906983474	Marionette	INFO	Listening on port 35499
+1637906983555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906987780	Marionette	INFO	Stopped listening on port 35499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637906991286	geckodriver	INFO	Listening on 127.0.0.1:35395
+1637906992290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileEe5qNt"
+*** You are running in headless mode.
+1637906992558	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEe5qNt/search.json.mozlz4", (void 0)))
+1637906993436	Marionette	INFO	Listening on port 44251
+1637906993504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637906996107	Marionette	INFO	Stopped listening on port 44251
+1637907007965	geckodriver	INFO	Listening on 127.0.0.1:41337
+1637907008975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilef6zMKx"
+*** You are running in headless mode.
+1637907009278	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef6zMKx/search.json.mozlz4", (void 0)))
+1637907010292	Marionette	INFO	Listening on port 41995
+1637907010392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907011655	Marionette	INFO	Stopped listening on port 41995
+1637907021407	geckodriver	INFO	Listening on 127.0.0.1:33047
+1637907022416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileXSqDhx"
+*** You are running in headless mode.
+1637907022758	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXSqDhx/search.json.mozlz4", (void 0)))
+1637907023761	Marionette	INFO	Listening on port 43825
+1637907023837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907027322	Marionette	INFO	Stopped listening on port 43825
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907035023	geckodriver	INFO	Listening on 127.0.0.1:46231
+1637907036031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileqecYON"
+*** You are running in headless mode.
+1637907036301	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqecYON/search.json.mozlz4", (void 0)))
+1637907037212	Marionette	INFO	Listening on port 43779
+1637907037249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907040170	Marionette	INFO	Stopped listening on port 43779
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907050797	geckodriver	INFO	Listening on 127.0.0.1:50053
+1637907051803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileRwK9U5"
+*** You are running in headless mode.
+1637907052085	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRwK9U5/search.json.mozlz4", (void 0)))
+1637907053012	Marionette	INFO	Listening on port 43993
+1637907053119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907056684	Marionette	INFO	Stopped listening on port 43993
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907061955	geckodriver	INFO	Listening on 127.0.0.1:46105
+1637907062957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilev68h8j"
+*** You are running in headless mode.
+1637907063233	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev68h8j/search.json.mozlz4", (void 0)))
+1637907064232	Marionette	INFO	Listening on port 43675
+1637907064275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907067958	Marionette	INFO	Stopped listening on port 43675
+1637907078064	geckodriver	INFO	Listening on 127.0.0.1:52439
+1637907079072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileScB4yP"
+*** You are running in headless mode.
+1637907079398	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileScB4yP/search.json.mozlz4", (void 0)))
+1637907080439	Marionette	INFO	Listening on port 39161
+1637907080488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907083365	Marionette	INFO	Stopped listening on port 39161
+1637907091357	geckodriver	INFO	Listening on 127.0.0.1:35393
+1637907092362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileN15INs"
+*** You are running in headless mode.
+1637907092629	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN15INs/search.json.mozlz4", (void 0)))
+1637907093612	Marionette	INFO	Listening on port 39209
+1637907093678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907097274	Marionette	INFO	Stopped listening on port 39209
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907113573	geckodriver	INFO	Listening on 127.0.0.1:48039
+1637907114575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilego03PS"
+*** You are running in headless mode.
+1637907114838	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilego03PS/search.json.mozlz4", (void 0)))
+1637907115828	Marionette	INFO	Listening on port 41191
+1637907115890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907120283	Marionette	INFO	Stopped listening on port 41191
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907131569	geckodriver	INFO	Listening on 127.0.0.1:45939
+1637907132573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileaN0Vxb"
+*** You are running in headless mode.
+1637907132838	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaN0Vxb/search.json.mozlz4", (void 0)))
+1637907133873	Marionette	INFO	Listening on port 32859
+1637907133892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907137693	Marionette	INFO	Stopped listening on port 32859
+1637907154578	geckodriver	INFO	Listening on 127.0.0.1:47097
+1637907155590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilehlvwCH"
+*** You are running in headless mode.
+1637907155890	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehlvwCH/search.json.mozlz4", (void 0)))
+1637907156881	Marionette	INFO	Listening on port 36213
+1637907156911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907161961	Marionette	INFO	Stopped listening on port 36213
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907171583	geckodriver	INFO	Listening on 127.0.0.1:57021
+1637907172586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileb7mhQY"
+*** You are running in headless mode.
+1637907172858	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb7mhQY/search.json.mozlz4", (void 0)))
+1637907173772	Marionette	INFO	Listening on port 36899
+1637907173802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript error: https://www.playerauctions.com/market-price-tracker/conquerors-blade/, line 1079: SyntaxError: missing ) after argument list
+1637907178646	Marionette	INFO	Stopped listening on port 36899
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907189385	geckodriver	INFO	Listening on 127.0.0.1:33085
+1637907190392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileQ0U0z4"
+*** You are running in headless mode.
+1637907190672	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ0U0z4/search.json.mozlz4", (void 0)))
+1637907191594	Marionette	INFO	Listening on port 39367
+1637907191608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907192647	Marionette	INFO	Stopped listening on port 39367
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907210066	geckodriver	INFO	Listening on 127.0.0.1:59591
+1637907211075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileM0s51T"
+*** You are running in headless mode.
+1637907211404	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM0s51T/search.json.mozlz4", (void 0)))
+1637907212325	Marionette	INFO	Listening on port 45393
+1637907212390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907216216	Marionette	INFO	Stopped listening on port 45393
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907222485	geckodriver	INFO	Listening on 127.0.0.1:35355
+1637907223496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileaVBy0f"
+*** You are running in headless mode.
+1637907223779	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaVBy0f/search.json.mozlz4", (void 0)))
+1637907224798	Marionette	INFO	Listening on port 35217
+1637907224827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907231007	Marionette	INFO	Stopped listening on port 35217
+1637907244477	geckodriver	INFO	Listening on 127.0.0.1:59331
+1637907245488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilef7O14j"
+*** You are running in headless mode.
+1637907245809	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef7O14j/search.json.mozlz4", (void 0)))
+1637907246806	Marionette	INFO	Listening on port 33087
+1637907246903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907250464	Marionette	INFO	Stopped listening on port 33087
+1637907266630	geckodriver	INFO	Listening on 127.0.0.1:36291
+1637907267636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilefrhI0k"
+*** You are running in headless mode.
+1637907267917	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefrhI0k/search.json.mozlz4", (void 0)))
+1637907268808	Marionette	INFO	Listening on port 33045
+1637907268853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907271825	Marionette	INFO	Stopped listening on port 33045
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907277941	geckodriver	INFO	Listening on 127.0.0.1:35023
+1637907278943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileHSoNHq"
+*** You are running in headless mode.
+1637907279208	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHSoNHq/search.json.mozlz4", (void 0)))
+1637907280136	Marionette	INFO	Listening on port 38699
+1637907280160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907285689	Marionette	INFO	Stopped listening on port 38699
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907299966	geckodriver	INFO	Listening on 127.0.0.1:42675
+1637907300974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilexdLQp7"
+*** You are running in headless mode.
+1637907301248	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexdLQp7/search.json.mozlz4", (void 0)))
+1637907302180	Marionette	INFO	Listening on port 33625
+1637907302331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907308608	Marionette	INFO	Stopped listening on port 33625
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907319109	geckodriver	INFO	Listening on 127.0.0.1:54877
+1637907320119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNLoey2"
+*** You are running in headless mode.
+1637907320385	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNLoey2/search.json.mozlz4", (void 0)))
+1637907321395	Marionette	INFO	Listening on port 43055
+1637907321435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907326870	Marionette	INFO	Stopped listening on port 43055
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907338251	geckodriver	INFO	Listening on 127.0.0.1:41977
+1637907339259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilecK9q7J"
+*** You are running in headless mode.
+1637907339596	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecK9q7J/search.json.mozlz4", (void 0)))
+1637907340492	Marionette	INFO	Listening on port 40571
+1637907340577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907346218	Marionette	INFO	Stopped listening on port 40571
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907357210	geckodriver	INFO	Listening on 127.0.0.1:39021
+1637907358217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileBGazk8"
+*** You are running in headless mode.
+1637907358488	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBGazk8/search.json.mozlz4", (void 0)))
+1637907359416	Marionette	INFO	Listening on port 40723
+1637907359438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907364193	Marionette	INFO	Stopped listening on port 40723
+1637907378359	geckodriver	INFO	Listening on 127.0.0.1:57967
+1637907379371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNvUsPJ"
+*** You are running in headless mode.
+1637907379658	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNvUsPJ/search.json.mozlz4", (void 0)))
+1637907380593	Marionette	INFO	Listening on port 43155
+1637907380689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907385958	Marionette	INFO	Stopped listening on port 43155
+1637907393698	geckodriver	INFO	Listening on 127.0.0.1:58517
+1637907394705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile6djYFm"
+*** You are running in headless mode.
+1637907394984	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6djYFm/search.json.mozlz4", (void 0)))
+1637907395928	Marionette	INFO	Listening on port 40149
+1637907396026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907401203	Marionette	INFO	Stopped listening on port 40149
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907423200	geckodriver	INFO	Listening on 127.0.0.1:51991
+1637907424204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileqC7l3e"
+*** You are running in headless mode.
+1637907424467	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqC7l3e/search.json.mozlz4", (void 0)))
+1637907425402	Marionette	INFO	Listening on port 44119
+1637907425421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907429402	Marionette	INFO	Stopped listening on port 44119
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907438264	geckodriver	INFO	Listening on 127.0.0.1:49449
+1637907439273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileFNUgcw"
+*** You are running in headless mode.
+1637907439569	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFNUgcw/search.json.mozlz4", (void 0)))
+1637907440503	Marionette	INFO	Listening on port 36577
+1637907440590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907444240	Marionette	INFO	Stopped listening on port 36577
+1637907455854	geckodriver	INFO	Listening on 127.0.0.1:58245
+1637907456862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilesa5JQQ"
+*** You are running in headless mode.
+1637907457212	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesa5JQQ/search.json.mozlz4", (void 0)))
+1637907458259	Marionette	INFO	Listening on port 39637
+1637907458292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907463791	Marionette	INFO	Stopped listening on port 39637
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907476634	geckodriver	INFO	Listening on 127.0.0.1:56881
+1637907477637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilezKjKVy"
+*** You are running in headless mode.
+1637907477907	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezKjKVy/search.json.mozlz4", (void 0)))
+1637907478854	Marionette	INFO	Listening on port 35091
+1637907478955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907482307	Marionette	INFO	Stopped listening on port 35091
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907493437	geckodriver	INFO	Listening on 127.0.0.1:46883
+1637907494441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileBg0E4J"
+*** You are running in headless mode.
+1637907494704	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBg0E4J/search.json.mozlz4", (void 0)))
+1637907495650	Marionette	INFO	Listening on port 36095
+1637907495757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907501341	Marionette	INFO	Stopped listening on port 36095
+1637907512186	geckodriver	INFO	Listening on 127.0.0.1:36457
+1637907513191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileWLDYc7"
+*** You are running in headless mode.
+1637907513469	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWLDYc7/search.json.mozlz4", (void 0)))
+1637907514386	Marionette	INFO	Listening on port 39579
+1637907514415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907521581	Marionette	INFO	Stopped listening on port 39579
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileWLDYc7/protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907534033	geckodriver	INFO	Listening on 127.0.0.1:56357
+1637907535041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilebnX8Y0"
+*** You are running in headless mode.
+1637907535358	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebnX8Y0/search.json.mozlz4", (void 0)))
+1637907536380	Marionette	INFO	Listening on port 39017
+1637907536457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907541422	Marionette	INFO	Stopped listening on port 39017
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637907549038	geckodriver	INFO	Listening on 127.0.0.1:41923
+1637907550048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileBabGU7"
+*** You are running in headless mode.
+1637907550385	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBabGU7/search.json.mozlz4", (void 0)))
+1637907551267	Marionette	INFO	Listening on port 43139
+1637907551362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637907555151	Marionette	INFO	Stopped listening on port 43139
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915098634	geckodriver	INFO	Listening on 127.0.0.1:49567
+1637915099640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileyuhTel"
+*** You are running in headless mode.
+1637915099921	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyuhTel/search.json.mozlz4", (void 0)))
+1637915100951	Marionette	INFO	Listening on port 40551
+1637915101057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915107356	Marionette	INFO	Stopped listening on port 40551
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915111076	geckodriver	INFO	Listening on 127.0.0.1:52419
+1637915112088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileQEvl76"
+*** You are running in headless mode.
+1637915112441	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQEvl76/search.json.mozlz4", (void 0)))
+1637915113445	Marionette	INFO	Listening on port 35849
+1637915113509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915119886	Marionette	INFO	Stopped listening on port 35849
+1637915137092	geckodriver	INFO	Listening on 127.0.0.1:52629
+1637915138102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNBosHl"
+*** You are running in headless mode.
+1637915138429	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNBosHl/search.json.mozlz4", (void 0)))
+1637915139432	Marionette	INFO	Listening on port 36027
+1637915139518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915144884	Marionette	INFO	Stopped listening on port 36027
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915158858	geckodriver	INFO	Listening on 127.0.0.1:39537
+1637915159866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileAMfOiG"
+*** You are running in headless mode.
+1637915160148	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAMfOiG/search.json.mozlz4", (void 0)))
+1637915161100	Marionette	INFO	Listening on port 34351
+1637915161182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915166699	Marionette	INFO	Stopped listening on port 34351
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915178861	geckodriver	INFO	Listening on 127.0.0.1:56681
+1637915179867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileIhYDtx"
+*** You are running in headless mode.
+1637915180142	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIhYDtx/search.json.mozlz4", (void 0)))
+1637915181173	Marionette	INFO	Listening on port 45387
+1637915181283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915194998	Marionette	INFO	Stopped listening on port 45387
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915207077	geckodriver	INFO	Listening on 127.0.0.1:49225
+1637915208081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileJYyzOR"
+*** You are running in headless mode.
+1637915208347	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJYyzOR/search.json.mozlz4", (void 0)))
+1637915209265	Marionette	INFO	Listening on port 44561
+1637915209296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915218682	Marionette	INFO	Stopped listening on port 44561
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915224691	geckodriver	INFO	Listening on 127.0.0.1:53381
+1637915225700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileynJGHh"
+*** You are running in headless mode.
+1637915225981	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileynJGHh/search.json.mozlz4", (void 0)))
+1637915226889	Marionette	INFO	Listening on port 44623
+1637915226917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915229801	Marionette	INFO	Stopped listening on port 44623
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915243838	geckodriver	INFO	Listening on 127.0.0.1:54981
+1637915244842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileExiPt6"
+*** You are running in headless mode.
+1637915245115	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileExiPt6/search.json.mozlz4", (void 0)))
+1637915246135	Marionette	INFO	Listening on port 42401
+1637915246165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915251110	Marionette	INFO	Stopped listening on port 42401
+1637915261746	geckodriver	INFO	Listening on 127.0.0.1:43003
+1637915262751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileFEiuFo"
+*** You are running in headless mode.
+1637915263025	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFEiuFo/search.json.mozlz4", (void 0)))
+1637915264049	Marionette	INFO	Listening on port 38263
+1637915264083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915269222	Marionette	INFO	Stopped listening on port 38263
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915289804	geckodriver	INFO	Listening on 127.0.0.1:57483
+1637915290808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileXo9f0d"
+*** You are running in headless mode.
+1637915291065	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXo9f0d/search.json.mozlz4", (void 0)))
+1637915292015	Marionette	INFO	Listening on port 38151
+1637915292123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915295156	Marionette	INFO	Stopped listening on port 38151
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915311006	geckodriver	INFO	Listening on 127.0.0.1:46909
+1637915312010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileLZvWtC"
+*** You are running in headless mode.
+1637915312267	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLZvWtC/search.json.mozlz4", (void 0)))
+1637915313297	Marionette	INFO	Listening on port 34463
+1637915313330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915319516	Marionette	INFO	Stopped listening on port 34463
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915337324	geckodriver	INFO	Listening on 127.0.0.1:51679
+1637915338330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileQyX8U8"
+*** You are running in headless mode.
+1637915338602	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQyX8U8/search.json.mozlz4", (void 0)))
+1637915339616	Marionette	INFO	Listening on port 33439
+1637915339647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915345173	Marionette	INFO	Stopped listening on port 33439
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915356238	geckodriver	INFO	Listening on 127.0.0.1:44519
+1637915357241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileUQeEU3"
+*** You are running in headless mode.
+1637915357507	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUQeEU3/search.json.mozlz4", (void 0)))
+1637915358518	Marionette	INFO	Listening on port 34499
+1637915358559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript error: https://www.playerauctions.com/market-price-tracker/conquerors-blade/, line 1079: SyntaxError: missing ) after argument list
+1637915361121	Marionette	INFO	Stopped listening on port 34499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915372148	geckodriver	INFO	Listening on 127.0.0.1:35931
+1637915373153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilevGGbD8"
+*** You are running in headless mode.
+1637915373455	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevGGbD8/search.json.mozlz4", (void 0)))
+1637915374459	Marionette	INFO	Listening on port 41667
+1637915374575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915379359	Marionette	INFO	Stopped listening on port 41667
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915397836	geckodriver	INFO	Listening on 127.0.0.1:59223
+1637915398839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileCJjR0r"
+*** You are running in headless mode.
+1637915399114	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCJjR0r/search.json.mozlz4", (void 0)))
+1637915400176	Marionette	INFO	Listening on port 45299
+1637915400256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915405878	Marionette	INFO	Stopped listening on port 45299
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915415562	geckodriver	INFO	Listening on 127.0.0.1:37531
+1637915416565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile4xoJjG"
+*** You are running in headless mode.
+1637915416832	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4xoJjG/search.json.mozlz4", (void 0)))
+1637915417772	Marionette	INFO	Listening on port 41689
+1637915417882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915423462	Marionette	INFO	Stopped listening on port 41689
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915438200	geckodriver	INFO	Listening on 127.0.0.1:43803
+1637915439205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileCcTrnR"
+*** You are running in headless mode.
+1637915439474	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCcTrnR/search.json.mozlz4", (void 0)))
+1637915440405	Marionette	INFO	Listening on port 38907
+1637915440424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915445147	Marionette	INFO	Stopped listening on port 38907
+1637915466955	geckodriver	INFO	Listening on 127.0.0.1:49791
+1637915467963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilepTPpgj"
+*** You are running in headless mode.
+1637915468287	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepTPpgj/search.json.mozlz4", (void 0)))
+1637915469203	Marionette	INFO	Listening on port 41909
+1637915469279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915474676	Marionette	INFO	Stopped listening on port 41909
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915482217	geckodriver	INFO	Listening on 127.0.0.1:50481
+1637915483226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilejLOMl8"
+*** You are running in headless mode.
+1637915483532	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejLOMl8/search.json.mozlz4", (void 0)))
+1637915484611	Marionette	INFO	Listening on port 45109
+1637915484646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915489880	Marionette	INFO	Stopped listening on port 45109
+1637915504944	geckodriver	INFO	Listening on 127.0.0.1:52521
+1637915505953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileY238TW"
+*** You are running in headless mode.
+1637915506228	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY238TW/search.json.mozlz4", (void 0)))
+1637915507271	Marionette	INFO	Listening on port 42485
+1637915507370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915512148	Marionette	INFO	Stopped listening on port 42485
+1637915522833	geckodriver	INFO	Listening on 127.0.0.1:40653
+1637915523836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile6YK9gh"
+*** You are running in headless mode.
+1637915524098	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6YK9gh/search.json.mozlz4", (void 0)))
+1637915525136	Marionette	INFO	Listening on port 38515
+1637915525157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915528835	Marionette	INFO	Stopped listening on port 38515
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915540588	geckodriver	INFO	Listening on 127.0.0.1:44133
+1637915541599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileVBaVPk"
+*** You are running in headless mode.
+1637915541919	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVBaVPk/search.json.mozlz4", (void 0)))
+1637915542930	Marionette	INFO	Listening on port 43149
+1637915543015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915548647	Marionette	INFO	Stopped listening on port 43149
+1637915560451	geckodriver	INFO	Listening on 127.0.0.1:39217
+1637915561462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileT8BBW5"
+*** You are running in headless mode.
+1637915561793	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT8BBW5/search.json.mozlz4", (void 0)))
+1637915562802	Marionette	INFO	Listening on port 34081
+1637915562882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915568331	Marionette	INFO	Stopped listening on port 34081
+1637915583819	geckodriver	INFO	Listening on 127.0.0.1:54279
+1637915584826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileJQNLPT"
+*** You are running in headless mode.
+1637915585119	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJQNLPT/search.json.mozlz4", (void 0)))
+1637915586016	Marionette	INFO	Listening on port 36057
+1637915586042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915591308	Marionette	INFO	Stopped listening on port 36057
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915598853	geckodriver	INFO	Listening on 127.0.0.1:52575
+1637915599863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile1nwlhC"
+*** You are running in headless mode.
+1637915600214	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1nwlhC/search.json.mozlz4", (void 0)))
+1637915601143	Marionette	INFO	Listening on port 46081
+1637915601178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915605922	Marionette	INFO	Stopped listening on port 46081
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915629580	geckodriver	INFO	Listening on 127.0.0.1:51935
+1637915630584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNtSlAp"
+*** You are running in headless mode.
+1637915630852	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNtSlAp/search.json.mozlz4", (void 0)))
+1637915631796	Marionette	INFO	Listening on port 43341
+1637915631900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915637982	Marionette	INFO	Stopped listening on port 43341
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915650267	geckodriver	INFO	Listening on 127.0.0.1:34109
+1637915651271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileeTz5c2"
+*** You are running in headless mode.
+1637915651560	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeTz5c2/search.json.mozlz4", (void 0)))
+1637915652474	Marionette	INFO	Listening on port 33377
+1637915652588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915658344	Marionette	INFO	Stopped listening on port 33377
+1637915670541	geckodriver	INFO	Listening on 127.0.0.1:59605
+1637915671545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileHjCHdC"
+*** You are running in headless mode.
+1637915671816	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHjCHdC/search.json.mozlz4", (void 0)))
+1637915672748	Marionette	INFO	Listening on port 40769
+1637915672862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915678620	Marionette	INFO	Stopped listening on port 40769
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915692148	geckodriver	INFO	Listening on 127.0.0.1:49011
+1637915693156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofiler9HF95"
+*** You are running in headless mode.
+1637915693476	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler9HF95/search.json.mozlz4", (void 0)))
+1637915694400	Marionette	INFO	Listening on port 40747
+1637915694473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915698296	Marionette	INFO	Stopped listening on port 40747
+1637915710364	geckodriver	INFO	Listening on 127.0.0.1:49399
+1637915711375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileu4eeWT"
+*** You are running in headless mode.
+1637915711719	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu4eeWT/search.json.mozlz4", (void 0)))
+1637915712633	Marionette	INFO	Listening on port 45051
+1637915712691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915718024	Marionette	INFO	Stopped listening on port 45051
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915729923	geckodriver	INFO	Listening on 127.0.0.1:44245
+1637915730927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile8XNOUD"
+*** You are running in headless mode.
+1637915731212	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8XNOUD/search.json.mozlz4", (void 0)))
+1637915732160	Marionette	INFO	Listening on port 46475
+1637915732243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915734934	Marionette	INFO	Stopped listening on port 46475
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915747202	geckodriver	INFO	Listening on 127.0.0.1:34245
+1637915748205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilerDH9fe"
+*** You are running in headless mode.
+1637915748479	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerDH9fe/search.json.mozlz4", (void 0)))
+1637915749414	Marionette	INFO	Listening on port 34523
+1637915749524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915752855	Marionette	INFO	Stopped listening on port 34523
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915760035	geckodriver	INFO	Listening on 127.0.0.1:50769
+1637915761038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile9iiBVI"
+*** You are running in headless mode.
+1637915761321	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9iiBVI/search.json.mozlz4", (void 0)))
+1637915762315	Marionette	INFO	Listening on port 38869
+1637915762353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915765410	Marionette	INFO	Stopped listening on port 38869
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915784512	geckodriver	INFO	Listening on 127.0.0.1:46423
+1637915785523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileHhoWsa"
+*** You are running in headless mode.
+1637915785848	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHhoWsa/search.json.mozlz4", (void 0)))
+1637915786785	Marionette	INFO	Listening on port 41783
+1637915786839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915790115	Marionette	INFO	Stopped listening on port 41783
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915807978	geckodriver	INFO	Listening on 127.0.0.1:45265
+1637915808980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile36GRYg"
+*** You are running in headless mode.
+1637915809239	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile36GRYg/search.json.mozlz4", (void 0)))
+1637915810170	Marionette	INFO	Listening on port 40123
+1637915810198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915815508	Marionette	INFO	Stopped listening on port 40123
+1637915820416	geckodriver	INFO	Listening on 127.0.0.1:42581
+1637915821425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileLRVwcY"
+*** You are running in headless mode.
+1637915821699	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLRVwcY/search.json.mozlz4", (void 0)))
+1637915822727	Marionette	INFO	Listening on port 35949
+1637915822749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915834836	Marionette	INFO	Stopped listening on port 35949
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915847490	geckodriver	INFO	Listening on 127.0.0.1:52521
+1637915848498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilea5WVcA"
+*** You are running in headless mode.
+1637915848844	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea5WVcA/search.json.mozlz4", (void 0)))
+1637915849804	Marionette	INFO	Listening on port 42043
+1637915849915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915855589	Marionette	INFO	Stopped listening on port 42043
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915871247	geckodriver	INFO	Listening on 127.0.0.1:59949
+1637915872251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileq9xlYU"
+*** You are running in headless mode.
+1637915872527	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq9xlYU/search.json.mozlz4", (void 0)))
+1637915873587	Marionette	INFO	Listening on port 41093
+1637915873669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915878738	Marionette	INFO	Stopped listening on port 41093
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915893468	geckodriver	INFO	Listening on 127.0.0.1:46829
+1637915894478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile3ayGtg"
+*** You are running in headless mode.
+1637915894819	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3ayGtg/search.json.mozlz4", (void 0)))
+1637915895831	Marionette	INFO	Listening on port 35939
+1637915895896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915900814	Marionette	INFO	Stopped listening on port 35939
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915913460	geckodriver	INFO	Listening on 127.0.0.1:51793
+1637915914464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilelzd9wg"
+*** You are running in headless mode.
+1637915914744	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelzd9wg/search.json.mozlz4", (void 0)))
+1637915915749	Marionette	INFO	Listening on port 40639
+1637915915782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915917547	Marionette	INFO	Stopped listening on port 40639
+JavaScript error: https://www.playerauctions.com/Static/js/lazysizes.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915933897	geckodriver	INFO	Listening on 127.0.0.1:50559
+1637915934909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilebVRyGJ"
+*** You are running in headless mode.
+1637915935246	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebVRyGJ/search.json.mozlz4", (void 0)))
+1637915936267	Marionette	INFO	Listening on port 38577
+1637915936327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915942446	Marionette	INFO	Stopped listening on port 38577
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915955922	geckodriver	INFO	Listening on 127.0.0.1:35791
+1637915956925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileS9eZuj"
+*** You are running in headless mode.
+1637915957193	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS9eZuj/search.json.mozlz4", (void 0)))
+1637915958152	Marionette	INFO	Listening on port 39469
+1637915958240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915963895	Marionette	INFO	Stopped listening on port 39469
+1637915977258	geckodriver	INFO	Listening on 127.0.0.1:45435
+1637915978262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilejY2MLy"
+*** You are running in headless mode.
+1637915978530	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejY2MLy/search.json.mozlz4", (void 0)))
+1637915979601	Marionette	INFO	Listening on port 40083
+1637915979678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637915984932	Marionette	INFO	Stopped listening on port 40083
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637915993262	geckodriver	INFO	Listening on 127.0.0.1:33705
+1637915994269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilejq6t64"
+*** You are running in headless mode.
+1637915994566	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejq6t64/search.json.mozlz4", (void 0)))
+1637915995556	Marionette	INFO	Listening on port 37577
+1637915995595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916000491	Marionette	INFO	Stopped listening on port 37577
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916014396	geckodriver	INFO	Listening on 127.0.0.1:44233
+1637916015405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile8bZRh4"
+*** You are running in headless mode.
+1637916015682	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8bZRh4/search.json.mozlz4", (void 0)))
+1637916016719	Marionette	INFO	Listening on port 34289
+1637916016823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916021760	Marionette	INFO	Stopped listening on port 34289
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916042640	geckodriver	INFO	Listening on 127.0.0.1:40443
+1637916043643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilezGKtkg"
+*** You are running in headless mode.
+1637916043912	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezGKtkg/search.json.mozlz4", (void 0)))
+1637916044947	Marionette	INFO	Listening on port 40203
+1637916045059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916048108	Marionette	INFO	Stopped listening on port 40203
+JavaScript error: https://www.playerauctions.com/Static/js/lazysizes.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916064011	geckodriver	INFO	Listening on 127.0.0.1:48659
+1637916065013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile3T3NpZ"
+*** You are running in headless mode.
+1637916065307	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3T3NpZ/search.json.mozlz4", (void 0)))
+1637916066363	Marionette	INFO	Listening on port 36785
+1637916066433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916071297	Marionette	INFO	Stopped listening on port 36785
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916092011	geckodriver	INFO	Listening on 127.0.0.1:34987
+1637916093022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilevjhJyZ"
+*** You are running in headless mode.
+1637916093314	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevjhJyZ/search.json.mozlz4", (void 0)))
+1637916094347	Marionette	INFO	Listening on port 45369
+1637916094444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916097705	Marionette	INFO	Stopped listening on port 45369
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916107860	geckodriver	INFO	Listening on 127.0.0.1:42049
+1637916108864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileXIaKEu"
+*** You are running in headless mode.
+1637916109151	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXIaKEu/search.json.mozlz4", (void 0)))
+1637916110139	Marionette	INFO	Listening on port 39387
+1637916110180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916116393	Marionette	INFO	Stopped listening on port 39387
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916134284	geckodriver	INFO	Listening on 127.0.0.1:49239
+1637916135295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileH9unlc"
+*** You are running in headless mode.
+1637916135649	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH9unlc/search.json.mozlz4", (void 0)))
+1637916136600	Marionette	INFO	Listening on port 39921
+1637916136716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916142147	Marionette	INFO	Stopped listening on port 39921
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916158712	geckodriver	INFO	Listening on 127.0.0.1:55177
+1637916159715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileqqrwlB"
+*** You are running in headless mode.
+1637916159998	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqqrwlB/search.json.mozlz4", (void 0)))
+1637916160953	Marionette	INFO	Listening on port 40231
+1637916161032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916166111	Marionette	INFO	Stopped listening on port 40231
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916169644	geckodriver	INFO	Listening on 127.0.0.1:56587
+1637916170647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilei2XOvk"
+*** You are running in headless mode.
+1637916170951	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei2XOvk/search.json.mozlz4", (void 0)))
+1637916171972	Marionette	INFO	Listening on port 36763
+1637916172066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916178056	Marionette	INFO	Stopped listening on port 36763
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916194409	geckodriver	INFO	Listening on 127.0.0.1:32979
+1637916195418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileOg33yO"
+*** You are running in headless mode.
+1637916195748	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOg33yO/search.json.mozlz4", (void 0)))
+1637916196769	Marionette	INFO	Listening on port 37321
+1637916196838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916201548	Marionette	INFO	Stopped listening on port 37321
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916212749	geckodriver	INFO	Listening on 127.0.0.1:37933
+1637916213760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileqN4AXg"
+*** You are running in headless mode.
+1637916214070	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqN4AXg/search.json.mozlz4", (void 0)))
+1637916215072	Marionette	INFO	Listening on port 36529
+1637916215177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916221275	Marionette	INFO	Stopped listening on port 36529
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916234761	geckodriver	INFO	Listening on 127.0.0.1:50843
+1637916235770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilePIzWB0"
+*** You are running in headless mode.
+1637916236083	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePIzWB0/search.json.mozlz4", (void 0)))
+1637916237013	Marionette	INFO	Listening on port 38025
+1637916237089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916242849	Marionette	INFO	Stopped listening on port 38025
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916260512	geckodriver	INFO	Listening on 127.0.0.1:44181
+1637916261516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilej9vEFG"
+*** You are running in headless mode.
+1637916261803	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej9vEFG/search.json.mozlz4", (void 0)))
+1637916262711	Marionette	INFO	Listening on port 33103
+1637916262734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916268735	Marionette	INFO	Stopped listening on port 33103
+1637916279816	geckodriver	INFO	Listening on 127.0.0.1:59933
+1637916280820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileV8EeTl"
+*** You are running in headless mode.
+1637916281094	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV8EeTl/search.json.mozlz4", (void 0)))
+1637916282026	Marionette	INFO	Listening on port 44541
+1637916282137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916289215	Marionette	INFO	Stopped listening on port 44541
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916300441	geckodriver	INFO	Listening on 127.0.0.1:44617
+1637916301445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileWX4FE5"
+*** You are running in headless mode.
+1637916301710	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWX4FE5/search.json.mozlz4", (void 0)))
+1637916302639	Marionette	INFO	Listening on port 40643
+1637916302663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916309509	Marionette	INFO	Stopped listening on port 40643
+1637916327810	geckodriver	INFO	Listening on 127.0.0.1:34197
+1637916328814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilehWkdgE"
+*** You are running in headless mode.
+1637916329084	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehWkdgE/search.json.mozlz4", (void 0)))
+1637916330087	Marionette	INFO	Listening on port 46883
+1637916330129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916339429	Marionette	INFO	Stopped listening on port 46883
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916360508	geckodriver	INFO	Listening on 127.0.0.1:40363
+1637916361519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile7TSru4"
+*** You are running in headless mode.
+1637916361795	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7TSru4/search.json.mozlz4", (void 0)))
+1637916362708	Marionette	INFO	Listening on port 36007
+1637916362734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916366110	Marionette	INFO	Stopped listening on port 36007
+1637916382671	geckodriver	INFO	Listening on 127.0.0.1:38945
+1637916383680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileYJyYjr"
+*** You are running in headless mode.
+1637916384009	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYJyYjr/search.json.mozlz4", (void 0)))
+1637916384955	Marionette	INFO	Listening on port 33931
+1637916384995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916392380	Marionette	INFO	Stopped listening on port 33931
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916400548	geckodriver	INFO	Listening on 127.0.0.1:59035
+1637916401557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileLtRLnI"
+*** You are running in headless mode.
+1637916401855	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLtRLnI/search.json.mozlz4", (void 0)))
+1637916402889	Marionette	INFO	Listening on port 35303
+1637916402974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916408490	Marionette	INFO	Stopped listening on port 35303
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916417545	geckodriver	INFO	Listening on 127.0.0.1:38007
+1637916418556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilebCo3zK"
+*** You are running in headless mode.
+1637916418853	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebCo3zK/search.json.mozlz4", (void 0)))
+1637916419808	Marionette	INFO	Listening on port 39781
+1637916419873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916422796	Marionette	INFO	Stopped listening on port 39781
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916439386	geckodriver	INFO	Listening on 127.0.0.1:57727
+1637916440396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilepRmLHb"
+*** You are running in headless mode.
+1637916440747	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepRmLHb/search.json.mozlz4", (void 0)))
+1637916441775	Marionette	INFO	Listening on port 44433
+1637916441813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916446846	Marionette	INFO	Stopped listening on port 44433
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916457932	geckodriver	INFO	Listening on 127.0.0.1:44749
+1637916458942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile6N7VK7"
+*** You are running in headless mode.
+1637916459264	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6N7VK7/search.json.mozlz4", (void 0)))
+1637916460183	Marionette	INFO	Listening on port 45803
+1637916460260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916463833	Marionette	INFO	Stopped listening on port 45803
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916474979	geckodriver	INFO	Listening on 127.0.0.1:48055
+1637916475991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilehhxJaQ"
+*** You are running in headless mode.
+1637916476343	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehhxJaQ/search.json.mozlz4", (void 0)))
+1637916477335	Marionette	INFO	Listening on port 41485
+1637916477408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916482578	Marionette	INFO	Stopped listening on port 41485
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916495074	geckodriver	INFO	Listening on 127.0.0.1:58971
+1637916496074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile7csshH"
+*** You are running in headless mode.
+1637916496337	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7csshH/search.json.mozlz4", (void 0)))
+1637916497338	Marionette	INFO	Listening on port 39329
+1637916497389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916498497	Marionette	INFO	Stopped listening on port 39329
+1637916521690	geckodriver	INFO	Listening on 127.0.0.1:51159
+1637916522699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileFaZ0Fx"
+*** You are running in headless mode.
+1637916523043	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFaZ0Fx/search.json.mozlz4", (void 0)))
+1637916524063	Marionette	INFO	Listening on port 36173
+1637916524121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916529968	Marionette	INFO	Stopped listening on port 36173
+1637916547699	geckodriver	INFO	Listening on 127.0.0.1:52641
+1637916548705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileGBfjHI"
+*** You are running in headless mode.
+1637916548988	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGBfjHI/search.json.mozlz4", (void 0)))
+1637916550021	Marionette	INFO	Listening on port 34343
+1637916550121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916556290	Marionette	INFO	Stopped listening on port 34343
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916565833	geckodriver	INFO	Listening on 127.0.0.1:50177
+1637916566840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile9eUEd5"
+*** You are running in headless mode.
+1637916567155	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9eUEd5/search.json.mozlz4", (void 0)))
+1637916568105	Marionette	INFO	Listening on port 38811
+1637916568155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916573302	Marionette	INFO	Stopped listening on port 38811
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916585989	geckodriver	INFO	Listening on 127.0.0.1:50625
+1637916586992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile4x6vOF"
+*** You are running in headless mode.
+1637916587254	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4x6vOF/search.json.mozlz4", (void 0)))
+1637916588198	Marionette	INFO	Listening on port 46211
+1637916588309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916593028	Marionette	INFO	Stopped listening on port 46211
+1637916613702	geckodriver	INFO	Listening on 127.0.0.1:58665
+1637916614707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile4nzRkO"
+*** You are running in headless mode.
+1637916614997	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4nzRkO/search.json.mozlz4", (void 0)))
+1637916615918	Marionette	INFO	Listening on port 39435
+1637916616027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916621144	Marionette	INFO	Stopped listening on port 39435
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916631362	geckodriver	INFO	Listening on 127.0.0.1:49103
+1637916632366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilemfwCFA"
+*** You are running in headless mode.
+1637916632640	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemfwCFA/search.json.mozlz4", (void 0)))
+1637916633692	Marionette	INFO	Listening on port 38909
+1637916633783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916639394	Marionette	INFO	Stopped listening on port 38909
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916651700	geckodriver	INFO	Listening on 127.0.0.1:60991
+1637916652706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileInYg3Z"
+*** You are running in headless mode.
+1637916652990	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileInYg3Z/search.json.mozlz4", (void 0)))
+1637916653966	Marionette	INFO	Listening on port 33787
+1637916654022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916658852	Marionette	INFO	Stopped listening on port 33787
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916676936	geckodriver	INFO	Listening on 127.0.0.1:47961
+1637916677939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileDwkzcG"
+*** You are running in headless mode.
+1637916678216	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDwkzcG/search.json.mozlz4", (void 0)))
+1637916679120	Marionette	INFO	Listening on port 42199
+1637916679155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916684849	Marionette	INFO	Stopped listening on port 42199
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916704837	geckodriver	INFO	Listening on 127.0.0.1:37375
+1637916705840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile3EsgLH"
+*** You are running in headless mode.
+1637916706101	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3EsgLH/search.json.mozlz4", (void 0)))
+1637916707079	Marionette	INFO	Listening on port 39361
+1637916707159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916708351	Marionette	INFO	Stopped listening on port 39361
+1637916722186	geckodriver	INFO	Listening on 127.0.0.1:59913
+1637916723196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilekJzzOw"
+*** You are running in headless mode.
+1637916723474	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekJzzOw/search.json.mozlz4", (void 0)))
+1637916724393	Marionette	INFO	Listening on port 38565
+1637916724413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916727221	Marionette	INFO	Stopped listening on port 38565
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916744104	geckodriver	INFO	Listening on 127.0.0.1:38369
+1637916745110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofiletaz8qw"
+*** You are running in headless mode.
+1637916745403	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletaz8qw/search.json.mozlz4", (void 0)))
+1637916746407	Marionette	INFO	Listening on port 32989
+1637916746438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637916752304	Marionette	INFO	Stopped listening on port 32989
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916765809	geckodriver	INFO	Listening on 127.0.0.1:39461
+1637916766812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile3XGMxM"
+*** You are running in headless mode.
+1637916767088	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3XGMxM/search.json.mozlz4", (void 0)))
+1637916768008	Marionette	INFO	Listening on port 39043
+1637916768031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916772945	Marionette	INFO	Stopped listening on port 39043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916792027	geckodriver	INFO	Listening on 127.0.0.1:49567
+1637916793031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofiledrfo0j"
+*** You are running in headless mode.
+1637916793306	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledrfo0j/search.json.mozlz4", (void 0)))
+1637916794224	Marionette	INFO	Listening on port 35707
+1637916794247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916800088	Marionette	INFO	Stopped listening on port 35707
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916826943	geckodriver	INFO	Listening on 127.0.0.1:52987
+1637916827946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileXNweZD"
+*** You are running in headless mode.
+1637916828233	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXNweZD/search.json.mozlz4", (void 0)))
+1637916829170	Marionette	INFO	Listening on port 42269
+1637916829262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916833644	Marionette	INFO	Stopped listening on port 42269
+1637916844456	geckodriver	INFO	Listening on 127.0.0.1:53315
+1637916845460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileFnJMt3"
+*** You are running in headless mode.
+1637916845741	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFnJMt3/search.json.mozlz4", (void 0)))
+1637916846779	Marionette	INFO	Listening on port 45829
+1637916846880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916852352	Marionette	INFO	Stopped listening on port 45829
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916862988	geckodriver	INFO	Listening on 127.0.0.1:36959
+1637916863992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileoA61m6"
+*** You are running in headless mode.
+1637916864256	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoA61m6/search.json.mozlz4", (void 0)))
+1637916865286	Marionette	INFO	Listening on port 38965
+1637916865309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916868885	Marionette	INFO	Stopped listening on port 38965
+1637916882344	geckodriver	INFO	Listening on 127.0.0.1:53097
+1637916883356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilekBfk3g"
+*** You are running in headless mode.
+1637916883631	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekBfk3g/search.json.mozlz4", (void 0)))
+1637916884649	Marionette	INFO	Listening on port 43111
+1637916884676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916890093	Marionette	INFO	Stopped listening on port 43111
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916910210	geckodriver	INFO	Listening on 127.0.0.1:33351
+1637916911216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileDk5xIK"
+*** You are running in headless mode.
+1637916911480	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDk5xIK/search.json.mozlz4", (void 0)))
+1637916912497	Marionette	INFO	Listening on port 45913
+1637916912532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916917823	Marionette	INFO	Stopped listening on port 45913
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916934713	geckodriver	INFO	Listening on 127.0.0.1:46799
+1637916935719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileMZcAkE"
+*** You are running in headless mode.
+1637916935986	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMZcAkE/search.json.mozlz4", (void 0)))
+1637916936902	Marionette	INFO	Listening on port 39651
+1637916936942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916943297	Marionette	INFO	Stopped listening on port 39651
+1637916951055	geckodriver	INFO	Listening on 127.0.0.1:44995
+1637916952058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilea1iRY3"
+*** You are running in headless mode.
+1637916952322	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea1iRY3/search.json.mozlz4", (void 0)))
+1637916953237	Marionette	INFO	Listening on port 40285
+1637916953275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916956300	Marionette	INFO	Stopped listening on port 40285
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916964469	geckodriver	INFO	Listening on 127.0.0.1:33731
+1637916965473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileJNNIWE"
+*** You are running in headless mode.
+1637916965736	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJNNIWE/search.json.mozlz4", (void 0)))
+1637916966597	Marionette	INFO	Listening on port 46655
+1637916966692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916972431	Marionette	INFO	Stopped listening on port 46655
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637916983626	geckodriver	INFO	Listening on 127.0.0.1:34537
+1637916984629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileTl9SCJ"
+*** You are running in headless mode.
+1637916984897	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTl9SCJ/search.json.mozlz4", (void 0)))
+1637916985993	Marionette	INFO	Listening on port 45521
+1637916986047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637916990607	Marionette	INFO	Stopped listening on port 45521
+1637917010180	geckodriver	INFO	Listening on 127.0.0.1:43503
+1637917011185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofiledHLDET"
+*** You are running in headless mode.
+1637917011458	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledHLDET/search.json.mozlz4", (void 0)))
+1637917012402	Marionette	INFO	Listening on port 43847
+1637917012500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637917018950	Marionette	INFO	Stopped listening on port 43847
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637917025875	geckodriver	INFO	Listening on 127.0.0.1:49747
+1637917026879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofiletYnPTs"
+*** You are running in headless mode.
+1637917027143	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletYnPTs/search.json.mozlz4", (void 0)))
+1637917028143	Marionette	INFO	Listening on port 37139
+1637917028194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637917032915	Marionette	INFO	Stopped listening on port 37139
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637917045058	geckodriver	INFO	Listening on 127.0.0.1:49237
+1637917046062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileU4eQwx"
+*** You are running in headless mode.
+1637917046380	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU4eQwx/search.json.mozlz4", (void 0)))
+1637917047446	Marionette	INFO	Listening on port 46179
+1637917047482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637917053410	Marionette	INFO	Stopped listening on port 46179
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637917070656	geckodriver	INFO	Listening on 127.0.0.1:49147
+1637917071659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileoIVq2t"
+*** You are running in headless mode.
+1637917071932	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoIVq2t/search.json.mozlz4", (void 0)))
+1637917072968	Marionette	INFO	Listening on port 33355
+1637917073074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637917078066	Marionette	INFO	Stopped listening on port 33355
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1637917102606	geckodriver	INFO	Listening on 127.0.0.1:57385
+1637917103609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilexFjnpb"
+*** You are running in headless mode.
+1637917103914	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexFjnpb/search.json.mozlz4", (void 0)))
+1637917104904	Marionette	INFO	Listening on port 40793
+1637917104925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637917108180	Marionette	INFO	Stopped listening on port 40793
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637917119418	geckodriver	INFO	Listening on 127.0.0.1:57331
+1637917120422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileC9fg8w"
+*** You are running in headless mode.
+1637917120684	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC9fg8w/search.json.mozlz4", (void 0)))
+1637917121624	Marionette	INFO	Listening on port 44995
+1637917121641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637917126573	Marionette	INFO	Stopped listening on port 44995
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637917135739	geckodriver	INFO	Listening on 127.0.0.1:42093
+1637917136742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileuuHcYX"
+*** You are running in headless mode.
+1637917136999	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuuHcYX/search.json.mozlz4", (void 0)))
+1637917137960	Marionette	INFO	Listening on port 35193
+1637917138057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637917143476	Marionette	INFO	Stopped listening on port 35193
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637917157492	geckodriver	INFO	Listening on 127.0.0.1:51825
+1637917158495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilepsraBa"
+*** You are running in headless mode.
+1637917158766	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepsraBa/search.json.mozlz4", (void 0)))
+1637917159829	Marionette	INFO	Listening on port 34979
+1637917159913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637917165416	Marionette	INFO	Stopped listening on port 34979
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637917177879	geckodriver	INFO	Listening on 127.0.0.1:48957
+1637917178884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileWOWb1m"
+*** You are running in headless mode.
+1637917179156	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWOWb1m/search.json.mozlz4", (void 0)))
+1637917180089	Marionette	INFO	Listening on port 38637
+1637917180202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637917185704	Marionette	INFO	Stopped listening on port 38637
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637917194952	geckodriver	INFO	Listening on 127.0.0.1:40563
+1637917195953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileDc7ncg"
+*** You are running in headless mode.
+1637917196222	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDc7ncg/search.json.mozlz4", (void 0)))
+1637917197121	Marionette	INFO	Listening on port 42615
+1637917197172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637917198408	Marionette	INFO	Stopped listening on port 42615
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637917206136	geckodriver	INFO	Listening on 127.0.0.1:36807
+1637917207139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilepvI4Oy"
+*** You are running in headless mode.
+1637917207406	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepvI4Oy/search.json.mozlz4", (void 0)))
+1637917208293	Marionette	INFO	Listening on port 41401
+1637917208357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+JavaScript warning: https://www.playerauctions.com/Static/MarketTracker/app/js/rankChart.js?v=0.0.5, line 177: unreachable code after return statement
+1637917212715	Marionette	INFO	Stopped listening on port 41401

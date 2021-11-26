@@ -1,0 +1,1 @@
+{"name": "DrumMania v4", "description": "", "steam": {"steam_game": false, "appid": null}, "developers": [], "publishers": [], "platforms": [], "genres": [], "keywords": [], "release_date": "", "currencies": [{"id": "V4", "name": "V4 Red Gems", "price": {"fixed_price": null, "unit": 1000, "price_table": "../prices/coins/V4.csv"}}]}
